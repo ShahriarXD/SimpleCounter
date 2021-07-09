@@ -1,0 +1,32 @@
+#lol{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#lol1{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: xx-large;
+  color: aquamarine
+}
+.lol{
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+body{
+  background-image: url(./pexels-photo-547114.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Otomanopee One', sans-serif;
+}
+#sex{
+  color:red;
+  margin-bottom: 70px;
+  font-size: medium;
+}
